@@ -1,0 +1,69 @@
+.container-fluid ul li {
+    position: relative;
+    text-align: center;
+
+}
+.carousel{
+    width: 500;
+    height: 500;
+}
+.left{
+ 
+    flex-direction: row-reverse;
+}
+.h-60{
+    height: 84vh;
+}
+.container{
+    text-align: center;
+    padding: 3rem;
+    
+
+}
+.div-center{
+    max-width: 600px;
+    align-items: center;
+    margin: 0px auto;
+    line-height: 1.5rem;
+    text-align: center;
+
+}
+.div-center > p {
+    font-weight: 300;
+    line-height: 1.2;
+    font-size: xx-large;
+}
+
+.container1{
+    color:rgb(7, 7, 7);
+    text-align: center;
+}
+
+.container2{
+    text-align:center;
+    margin: 10px;
+}
+
+.container3{
+    text-align: center;
+    margin: 34px;
+}
+footer{
+    text-align: center;
+    color:whitesmoke;
+    background-color:rgb(211, 135, 54);
+    position: fixed;
+    bottom: 0;
+    padding-bottom: -2rem;
+    width: 100%;
+}
+.nav-item{
+    border: 1px solid rgb(199, 66, 26);
+    border-radius: 5px;
+    margin: 0px 1rem;
+}
+.youtube{
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;  
+}

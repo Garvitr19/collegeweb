@@ -1,0 +1,65 @@
+.container1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding: 34px;
+   
+}
+
+.image{
+    text-align: center;
+    margin: 30px;
+} 
+.class{
+    text-align: center;
+    padding-right: 40rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.add{
+    text-align: left;
+    padding-left: 10rem;
+    
+}
+footer{
+    text-align: center;
+    color: wheat;
+    background-color: rgb(72, 52, 22);
+    position: fixed;
+    bottom: 0;
+    padding-bottom: -2rem;
+    width: 100%;
+}
+.nav-item{
+    border: 1px solid rgb(199, 66, 26);
+    margin: 0px 1rem;
+    border-radius: 5px;
+}
+.nav-link >a:hover { 
+    background-color: red ; 
+}
+.container2{
+    text-align: center;
+}
+
+
+
+.table{
+   margin-top: 0rem;
+}
+
+.tablec{
+   background-color: brown;
+}
+@media only screen and (max-width: 1400px) {
+    .class{
+        text-align: left;
+        padding-right: 10%;
+        padding-left: 3%;
+       
+    }
+    .add{
+        text-align: left;
+        padding-right: 10%;
+        padding-left: 3%;
+       
+    }
+  }
